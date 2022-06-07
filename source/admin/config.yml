@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: https://github.com/lifan-chen/blog.git
+  base_url: /clf-blog.netlify.app
   branch: master # Branch to update (master by default)
 
 # These lines should *not* be indented
