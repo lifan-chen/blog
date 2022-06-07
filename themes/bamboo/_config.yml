@@ -5,6 +5,9 @@ menu:
   Home:
     url: /
     icon: fas fa-home
+  Write:
+    url: /admin/
+    icon: fa-pencil-square-o
   Archives:
     url: /archives
     icon: fas fa-archive
@@ -25,15 +28,15 @@ menu:
       - name: 图库
         url: /gallery
         icon: fas fa-music
-      - name: 友情连接
-        url: /huoban
-        icon: fas fa-film
+#      - name: 友情连接
+#        url: /huoban
+#        icon: fas fa-film
       - name: 关于我
         url: /me
         icon: fas fa-film
-      - name: 百度
-        url: http://baidu.com
-        icon: fas fa-film
+#      - name: 百度
+#        url: http://baidu.com
+#        icon: fas fa-film
 
 # github地址, 头部导航右上角的github链接
 Github:
