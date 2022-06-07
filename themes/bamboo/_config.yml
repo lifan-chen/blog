@@ -7,7 +7,7 @@ menu:
     icon: fas fa-home
   Write:
     url: /admin/
-    icon: fa-pencil-square-o
+    icon: fas pencil-square-o
   Archives:
     url: /archives
     icon: fas fa-archive
