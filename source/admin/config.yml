@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/lifan-chen/blog.git
+  repo: lifan-chen/blog
   base_url: https://clf-blog.netlify.app
   branch: master # Branch to update (master by default)
 
