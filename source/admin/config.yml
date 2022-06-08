@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: lifan-chen/blog
+  name: git-gateway
   branch: master # Branch to update (master by default)
 
 # These lines should *not* be indented
