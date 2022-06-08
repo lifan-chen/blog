@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: lifan-chen/blog
-  base_url: https://clf-blog.netlify.app
   branch: master # Branch to update (master by default)
 
 # These lines should *not* be indented
