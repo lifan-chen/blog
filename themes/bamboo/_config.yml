@@ -2,9 +2,9 @@
 
 # 菜单
 menu:
-  Home:
-    url: /
-    icon: fas fa-home
+#  Home:
+#    url: /
+#    icon: fas fa-home
   Write:
     url: /admin/
     icon: fas fa-pen-nib
