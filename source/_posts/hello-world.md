@@ -1,12 +1,12 @@
 ---
 title: Hello world
 date: 2020-09-14 14:06
-swiper: false # 将改文章放入轮播图中
-swiperImg: '/medias/1.jpg' # 该文章在轮播图中的图片，可以是本地目录下图片也可以是http://xxx图片
-img: '/medias/1.jpg' # 该文章图片，可以是本地目录下图片也可以是http://xxx图片
+swiper: true # 将改文章放入轮播图中
+swiperImg: https://w.wallhaven.cc/full/x8/wallhaven-x8oxez.png # 该文章在轮播图中的图片，可以是本地目录下图片也可以是http://xxx图片
+img: 'https://w.wallhaven.cc/full/x8/wallhaven-x8oxez.png' # 该文章图片，可以是本地目录下图片也可以是http://xxx图片
 categories: Others
-tags: [template]
-top: false
+tags: "template"
+top: true
 mathjax: true
 imgTop: true
 ---
