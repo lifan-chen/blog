@@ -1,6 +1,12 @@
 ---
 title: First Use CMS Test
 date: 2022-06-08T00:44:28.643Z
-swiper: true # 将改文章放入轮播图中
+excerpt: 这就是一个小测试
+top: false
+swiper: true
+swiperImg: https://wallhaven.cc/w/wqgz26
+categories: Others
+tags:
+  - AI
 ---
-fadfsaf
+阿巴阿巴
