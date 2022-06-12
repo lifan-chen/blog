@@ -22,9 +22,9 @@ collections:
       - {label: "Top", name: "top", widget: "boolean", default: false}
       - {label: "Swiper", name: "swiper", widget: "boolean", default: false}
       - {label: "SwiperImg", name: "swiperImg", widget: "string", default: false}
-      - {label: "Categories", name: "categories", widget: "select", multiple: false
+      - {label: "Categories", name: "categories", widget: "select", multiple: false,
          options: [ "Others", "AI", "life" ], default: false}
-      - { label: "Categories", name: "categories", widget: "select", multiple: true
+      - { label: "Categories", name: "categories", widget: "select", multiple: true,
           options: [ "Java", "AI", "Pytorch", "python" ], default: false }
       - {label: 'Body', name: 'body', widget: 'markdown', default: true}
       
