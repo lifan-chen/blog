@@ -554,7 +554,7 @@ archive:
 # 标签页面，配置同上
 tag:
   title: 'tags'
-  img: 'http://p6.qhimg.com/bdr/__85/t0166c577792ddec307.jpg' # 标签页上面的图片
+  img: 'http://p5.qhimg.com/bdr/__85/t01428760664d8b8210.jpg' # 标签页上面的图片
   desc: '愿你如风，被人温柔以待'
   full: false # 标签页上面的图片是否全屏显示
   video: '' # 如果有值，则在屏幕大于920px的时候，全屏显示视频
@@ -564,7 +564,7 @@ tag:
 # 标签详情页面，配置同上
 tagDetail:
   title: 'tag'
-  img: 'http://p7.qhimg.com/bdr/__85/t0134178d0a4765beb9.jpg'
+  img: 'http://p3.qhimg.com/bdr/__85/t01908261ac94a4286c.jpg'
   desc: '愿你如风，被人温柔以待' # 标签页详情上上面的图片上的文字
   full: false
   video: ''
