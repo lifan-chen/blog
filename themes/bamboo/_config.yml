@@ -6,7 +6,7 @@ menu:
 #    url: /
 #    icon: fas fa-home
   Write:
-    url: /admin/
+    url: /admin
     icon: fas fa-pen-nib
   Archives:
     url: /archives
