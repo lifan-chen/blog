@@ -1,0 +1,14 @@
+# home_widget里面的内容会出现在座右铭那一个栏目里面
+home_widget:
+  - class_name: my_github_container
+    id_name: my_github_container
+    order: -1
+    name: Github日历
+    icon: fas fa-envelope
+    icon_color: '#42b983'
+    url: https://github.com/lifan-chen
+    background: '#fff'
+    html: '
+      <div id="github_container"></div>
+      <script data-pjax src="/githubcalendar/index.js"></script>
+    '
